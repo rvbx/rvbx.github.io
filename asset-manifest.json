@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.491ac7a5.chunk.css",
-    "main.js": "/static/js/main.543b6401.chunk.js",
-    "main.js.map": "/static/js/main.543b6401.chunk.js.map",
+    "main.css": "/static/css/main.52980cf8.chunk.css",
+    "main.js": "/static/js/main.e78d0b4e.chunk.js",
+    "main.js.map": "/static/js/main.e78d0b4e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dde7b07e.js",
     "runtime-main.js.map": "/static/js/runtime-main.dde7b07e.js.map",
-    "static/js/2.607133c5.chunk.js": "/static/js/2.607133c5.chunk.js",
-    "static/js/2.607133c5.chunk.js.map": "/static/js/2.607133c5.chunk.js.map",
+    "static/js/2.6e1e8513.chunk.js": "/static/js/2.6e1e8513.chunk.js",
+    "static/js/2.6e1e8513.chunk.js.map": "/static/js/2.6e1e8513.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.63adbf293a7c1ea04990d8a5d36b575e.js": "/precache-manifest.63adbf293a7c1ea04990d8a5d36b575e.js",
+    "precache-manifest.f141d78c17e8d239f3c58bc9cbea125a.js": "/precache-manifest.f141d78c17e8d239f3c58bc9cbea125a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.491ac7a5.chunk.css.map": "/static/css/main.491ac7a5.chunk.css.map",
-    "static/js/2.607133c5.chunk.js.LICENSE.txt": "/static/js/2.607133c5.chunk.js.LICENSE.txt",
+    "static/css/main.52980cf8.chunk.css.map": "/static/css/main.52980cf8.chunk.css.map",
+    "static/js/2.6e1e8513.chunk.js.LICENSE.txt": "/static/js/2.6e1e8513.chunk.js.LICENSE.txt",
     "static/media/01.5d5876f6.svg": "/static/media/01.5d5876f6.svg",
     "static/media/02A.f5ba717a.svg": "/static/media/02A.f5ba717a.svg",
     "static/media/02B.388ec59c.svg": "/static/media/02B.388ec59c.svg",
@@ -27,15 +27,18 @@
     "static/media/T4.jpg": "/static/media/T4.c0eb5b66.jpg",
     "static/media/T5.jpg": "/static/media/T5.eccd84b7.jpg",
     "static/media/T6.jpg": "/static/media/T6.8d2443aa.jpg",
+    "static/media/T7.jpg": "/static/media/T7.959f8346.jpg",
     "static/media/menu-about-me.svg": "/static/media/menu-about-me.3c434ca0.svg",
     "static/media/menu-fernando-fregate.svg": "/static/media/menu-fernando-fregate.ad88f6b4.svg",
     "static/media/menu-home.svg": "/static/media/menu-home.1a8bcf44.svg",
-    "static/media/profile.jpg": "/static/media/profile.a08cb333.jpg"
+    "static/media/profile.jpg": "/static/media/profile.a08cb333.jpg",
+    "static/media/whiskas1.jpg": "/static/media/whiskas1.859b1543.jpg",
+    "static/media/whiskas2.jpg": "/static/media/whiskas2.8f2192fd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dde7b07e.js",
-    "static/js/2.607133c5.chunk.js",
-    "static/css/main.491ac7a5.chunk.css",
-    "static/js/main.543b6401.chunk.js"
+    "static/js/2.6e1e8513.chunk.js",
+    "static/css/main.52980cf8.chunk.css",
+    "static/js/main.e78d0b4e.chunk.js"
   ]
 }
